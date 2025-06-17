@@ -1,5 +1,3 @@
-package projects;
-
 import java.util.*;
 class Product {
     private String name;
